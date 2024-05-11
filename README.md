@@ -19,3 +19,4 @@ The system operates in two modes: Normal mode and Fire mode.
 
 This system ensures that in the event of a fire, the fire station is alerted as quickly as possible, potentially saving lives and property.
 
+![Proteus](https://github.com/Eman22adel/fire-system/blob/main/Screenshot%202024-05-11%20195125.png)
